@@ -5,6 +5,8 @@ A simple, interactive command-line chatbot built using LangChain and OpenRouter 
 ## What is LangChain?
 LangChain is a framework designed to make building applications with Large Language Models (LLMs) easier by connecting them to data sources, memory, and tools.
 
+Documentation link: https://docs.langchain.com/oss/python/langchain/overview
+
 ## Why use LangChain?
 It provides a unified interface to easily switch between different LLMs, manage conversation context, and chain multiple operations together without rewriting boilerplate code.
 
